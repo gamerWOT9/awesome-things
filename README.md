@@ -22,6 +22,7 @@
 | **[`kitty`](https://github.com/kovidgoyal/kitty.git)** | Cross-platform, fast, feature-rich, GPU based terminal |
 | **[`NvChad`](https://github.com/NvChad/NvChad.git)** | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. |
 | **[`LunarVim`](https://github.com/LunarVim/LunarVim.git)** | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. |
+| **[`nsxiv`](https://github.com/nsxiv/nsxiv.git)** | Read-only mirror of Neo Simple X Image Viewer |
 | **[`rustdesk`](https://github.com/rustdesk/rustdesk.git)** | An open-source remote desktop, and alternative to TeamViewer. |
 | **[`spotify-tui`](https://github.com/Rigellute/spotify-tui.git)** | Spotify for the terminal written in Rust 🚀 |
 | **[`wf-recorder`](https://github.com/ammen99/wf-recorder.git)** | wf-recorder is a utility program for screen recording of `wlroots`-based compositors |
@@ -50,6 +51,7 @@
 
 | | |
 | :---         | :---         |
+| **Custom filters (for web browser):** |
 | [**`no-google`**](https://github.com/nickspaargaren/no-google.git) | Completely block Google and its services |
 | **[`no-facebook`](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all)** | Completely block Facebook and its services |
 | **[`no-microsoft`](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all)** | Completely block Microsoft and its services |
