@@ -56,8 +56,15 @@
 | **[`no-facebook`](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all)** | Completely block Facebook and its services |
 | **[`no-microsoft`](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all)** | Completely block Microsoft and its services |
 | **[`no-amazon`](https://github.com/nickspaargaren/no-amazon.git)** | Completely block Amazon and its services |
-| **[`apple-telemetry`](https://github.com/cedws/apple-telemetry.git)** | Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry |
+| **[`no-apple`](https://raw.githubusercontent.com/cedws/apple-telemetry/master/blacklist)** | Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry |
 
+```
+https://raw.githubusercontent.com/cedws/apple-telemetry/master/blacklist
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
+https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/parsedamazon
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
+```
 
 <!-- | <b><u>Title</u></b> | <b><u>Description</u></b> |
 | | |
